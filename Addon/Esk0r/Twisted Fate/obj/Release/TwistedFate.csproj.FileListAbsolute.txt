@@ -1,0 +1,14 @@
+E:\Git dev\VIP\Esk0r\Twisted Fate\bin\Release\TwistedFate.exe.config
+E:\Git dev\VIP\Esk0r\Twisted Fate\bin\Release\TwistedFate.exe
+E:\Git dev\VIP\Esk0r\Twisted Fate\bin\Release\TwistedFate.pdb
+E:\Git dev\VIP\Esk0r\Twisted Fate\bin\Release\EloBuddy.dll
+E:\Git dev\VIP\Esk0r\Twisted Fate\bin\Release\EloBuddy.SDK.dll
+E:\Git dev\VIP\Esk0r\Twisted Fate\bin\Release\LeagueSharp.Common.dll
+E:\Git dev\VIP\Esk0r\Twisted Fate\bin\Release\SharpDX.dll
+E:\Git dev\VIP\Esk0r\Twisted Fate\bin\Release\SharpDX.Direct3D9.dll
+E:\Git dev\VIP\Esk0r\Twisted Fate\bin\Release\Newtonsoft.Json.dll
+E:\Git dev\VIP\Esk0r\Twisted Fate\bin\Release\LeagueSharp.Data.dll
+E:\Git dev\VIP\Esk0r\Twisted Fate\bin\Release\EloBuddy.Sandbox.dll
+E:\Git dev\VIP\Esk0r\Twisted Fate\obj\Release\TwistedFate.csprojResolveAssemblyReference.cache
+E:\Git dev\VIP\Esk0r\Twisted Fate\obj\Release\TwistedFate.exe
+E:\Git dev\VIP\Esk0r\Twisted Fate\obj\Release\TwistedFate.pdb

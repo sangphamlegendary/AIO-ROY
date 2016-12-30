@@ -1,0 +1,14 @@
+E:\Git dev\VIP\Thresh - The ruler of the soul\bin\Release\Thresh - The ruler of the soul.exe.config
+E:\Git dev\VIP\Thresh - The ruler of the soul\bin\Release\Thresh - The ruler of the soul.exe
+E:\Git dev\VIP\Thresh - The ruler of the soul\bin\Release\Thresh - The ruler of the soul.pdb
+E:\Git dev\VIP\Thresh - The ruler of the soul\bin\Release\EloBuddy.dll
+E:\Git dev\VIP\Thresh - The ruler of the soul\bin\Release\EloBuddy.SDK.dll
+E:\Git dev\VIP\Thresh - The ruler of the soul\bin\Release\LeagueSharp.Common.dll
+E:\Git dev\VIP\Thresh - The ruler of the soul\bin\Release\SharpDX.Direct3D9.dll
+E:\Git dev\VIP\Thresh - The ruler of the soul\bin\Release\SharpDX.dll
+E:\Git dev\VIP\Thresh - The ruler of the soul\bin\Release\Newtonsoft.Json.dll
+E:\Git dev\VIP\Thresh - The ruler of the soul\bin\Release\LeagueSharp.Data.dll
+E:\Git dev\VIP\Thresh - The ruler of the soul\bin\Release\EloBuddy.Sandbox.dll
+E:\Git dev\VIP\Thresh - The ruler of the soul\obj\Release\Thresh The ruler of the soul.csprojResolveAssemblyReference.cache
+E:\Git dev\VIP\Thresh - The ruler of the soul\obj\Release\Thresh - The ruler of the soul.exe
+E:\Git dev\VIP\Thresh - The ruler of the soul\obj\Release\Thresh - The ruler of the soul.pdb

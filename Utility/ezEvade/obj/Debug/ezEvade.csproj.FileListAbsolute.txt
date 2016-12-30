@@ -1,0 +1,12 @@
+E:\Git dev\VIP\ezEvade\bin\Debug\ezEvade.exe.config
+E:\Git dev\VIP\ezEvade\bin\Debug\ezEvade.exe
+E:\Git dev\VIP\ezEvade\bin\Debug\ezEvade.pdb
+E:\Git dev\VIP\ezEvade\bin\Debug\EloBuddy.dll
+E:\Git dev\VIP\ezEvade\bin\Debug\EloBuddy.SDK.dll
+E:\Git dev\VIP\ezEvade\bin\Debug\LeagueSharp.Common.dll
+E:\Git dev\VIP\ezEvade\bin\Debug\SharpDX.Direct3D9.dll
+E:\Git dev\VIP\ezEvade\bin\Debug\SharpDX.dll
+E:\Git dev\VIP\ezEvade\bin\Debug\Newtonsoft.Json.dll
+E:\Git dev\VIP\ezEvade\bin\Debug\LeagueSharp.Data.dll
+E:\Git dev\VIP\ezEvade\obj\Debug\ezEvade.exe
+E:\Git dev\VIP\ezEvade\obj\Debug\ezEvade.pdb

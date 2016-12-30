@@ -1,0 +1,14 @@
+E:\Git dev\VIP\KurisuMorgana\bin\Release\KurisuMorgana.exe.config
+E:\Git dev\VIP\KurisuMorgana\bin\Release\KurisuMorgana.exe
+E:\Git dev\VIP\KurisuMorgana\bin\Release\KurisuMorgana.pdb
+E:\Git dev\VIP\KurisuMorgana\bin\Release\EloBuddy.dll
+E:\Git dev\VIP\KurisuMorgana\bin\Release\EloBuddy.SDK.dll
+E:\Git dev\VIP\KurisuMorgana\bin\Release\LeagueSharp.Common.dll
+E:\Git dev\VIP\KurisuMorgana\bin\Release\SharpDX.Direct3D9.dll
+E:\Git dev\VIP\KurisuMorgana\bin\Release\SharpDX.dll
+E:\Git dev\VIP\KurisuMorgana\bin\Release\Newtonsoft.Json.dll
+E:\Git dev\VIP\KurisuMorgana\bin\Release\LeagueSharp.Data.dll
+E:\Git dev\VIP\KurisuMorgana\bin\Release\EloBuddy.Sandbox.dll
+E:\Git dev\VIP\KurisuMorgana\obj\Release\KurisuMorgana.csprojResolveAssemblyReference.cache
+E:\Git dev\VIP\KurisuMorgana\obj\Release\KurisuMorgana.exe
+E:\Git dev\VIP\KurisuMorgana\obj\Release\KurisuMorgana.pdb

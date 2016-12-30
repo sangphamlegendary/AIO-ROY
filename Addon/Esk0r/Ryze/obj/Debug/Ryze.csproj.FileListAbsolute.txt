@@ -1,0 +1,14 @@
+E:\Git dev\VIP\Esk0r\Ryze\bin\Debug\Ryze.exe.config
+E:\Git dev\VIP\Esk0r\Ryze\bin\Debug\Ryze.exe
+E:\Git dev\VIP\Esk0r\Ryze\bin\Debug\Ryze.pdb
+E:\Git dev\VIP\Esk0r\Ryze\bin\Debug\EloBuddy.dll
+E:\Git dev\VIP\Esk0r\Ryze\bin\Debug\LeagueSharp.Common.dll
+E:\Git dev\VIP\Esk0r\Ryze\bin\Debug\SharpDX.dll
+E:\Git dev\VIP\Esk0r\Ryze\bin\Debug\SharpDX.Direct3D9.dll
+E:\Git dev\VIP\Esk0r\Ryze\bin\Debug\LeagueSharp.Data.dll
+E:\Git dev\VIP\Esk0r\Ryze\bin\Debug\EloBuddy.SDK.dll
+E:\Git dev\VIP\Esk0r\Ryze\bin\Debug\EloBuddy.Sandbox.dll
+E:\Git dev\VIP\Esk0r\Ryze\bin\Debug\Newtonsoft.Json.dll
+E:\Git dev\VIP\Esk0r\Ryze\obj\Debug\Ryze.csproj.Ryze.exe.config
+E:\Git dev\VIP\Esk0r\Ryze\obj\Debug\Ryze.exe
+E:\Git dev\VIP\Esk0r\Ryze\obj\Debug\Ryze.pdb

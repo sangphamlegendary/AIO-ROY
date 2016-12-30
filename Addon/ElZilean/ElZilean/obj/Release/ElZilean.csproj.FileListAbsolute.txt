@@ -1,0 +1,15 @@
+E:\Git dev\VIP\ElZilean\ElZilean\bin\Release\ElZilean.exe.config
+E:\Git dev\VIP\ElZilean\ElZilean\bin\Release\ElZilean.exe
+E:\Git dev\VIP\ElZilean\ElZilean\bin\Release\ElZilean.pdb
+E:\Git dev\VIP\ElZilean\ElZilean\bin\Release\EloBuddy.dll
+E:\Git dev\VIP\ElZilean\ElZilean\bin\Release\EloBuddy.SDK.dll
+E:\Git dev\VIP\ElZilean\ElZilean\bin\Release\LeagueSharp.Common.dll
+E:\Git dev\VIP\ElZilean\ElZilean\bin\Release\SebbyLib.dll
+E:\Git dev\VIP\ElZilean\ElZilean\bin\Release\SharpDX.Direct3D9.dll
+E:\Git dev\VIP\ElZilean\ElZilean\bin\Release\SharpDX.dll
+E:\Git dev\VIP\ElZilean\ElZilean\bin\Release\Newtonsoft.Json.dll
+E:\Git dev\VIP\ElZilean\ElZilean\bin\Release\LeagueSharp.Data.dll
+E:\Git dev\VIP\ElZilean\ElZilean\bin\Release\EloBuddy.Sandbox.dll
+E:\Git dev\VIP\ElZilean\ElZilean\obj\Release\ElZilean.csprojResolveAssemblyReference.cache
+E:\Git dev\VIP\ElZilean\ElZilean\obj\Release\ElZilean.exe
+E:\Git dev\VIP\ElZilean\ElZilean\obj\Release\ElZilean.pdb

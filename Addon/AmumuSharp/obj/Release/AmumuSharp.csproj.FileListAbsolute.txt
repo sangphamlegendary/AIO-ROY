@@ -1,0 +1,14 @@
+E:\Git dev\VIP\AmumuSharp\bin\Release\AmumuSharp.exe.config
+E:\Git dev\VIP\AmumuSharp\bin\Release\AmumuSharp.exe
+E:\Git dev\VIP\AmumuSharp\bin\Release\AmumuSharp.pdb
+E:\Git dev\VIP\AmumuSharp\bin\Release\EloBuddy.dll
+E:\Git dev\VIP\AmumuSharp\bin\Release\EloBuddy.SDK.dll
+E:\Git dev\VIP\AmumuSharp\bin\Release\LeagueSharp.Common.dll
+E:\Git dev\VIP\AmumuSharp\bin\Release\SharpDX.Direct3D9.dll
+E:\Git dev\VIP\AmumuSharp\bin\Release\SharpDX.dll
+E:\Git dev\VIP\AmumuSharp\bin\Release\Newtonsoft.Json.dll
+E:\Git dev\VIP\AmumuSharp\bin\Release\LeagueSharp.Data.dll
+E:\Git dev\VIP\AmumuSharp\bin\Release\EloBuddy.Sandbox.dll
+E:\Git dev\VIP\AmumuSharp\obj\Release\AmumuSharp.csprojResolveAssemblyReference.cache
+E:\Git dev\VIP\AmumuSharp\obj\Release\AmumuSharp.exe
+E:\Git dev\VIP\AmumuSharp\obj\Release\AmumuSharp.pdb

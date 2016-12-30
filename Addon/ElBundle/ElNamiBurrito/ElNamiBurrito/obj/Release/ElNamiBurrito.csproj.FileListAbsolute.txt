@@ -1,0 +1,14 @@
+E:\Git dev\VIP\ElBundle\ElNamiBurrito\ElNamiBurrito\bin\Release\ElNamiBurrito.exe.config
+E:\Git dev\VIP\ElBundle\ElNamiBurrito\ElNamiBurrito\bin\Release\ElNamiBurrito.exe
+E:\Git dev\VIP\ElBundle\ElNamiBurrito\ElNamiBurrito\bin\Release\ElNamiBurrito.pdb
+E:\Git dev\VIP\ElBundle\ElNamiBurrito\ElNamiBurrito\bin\Release\EloBuddy.dll
+E:\Git dev\VIP\ElBundle\ElNamiBurrito\ElNamiBurrito\bin\Release\EloBuddy.SDK.dll
+E:\Git dev\VIP\ElBundle\ElNamiBurrito\ElNamiBurrito\bin\Release\LeagueSharp.Common.dll
+E:\Git dev\VIP\ElBundle\ElNamiBurrito\ElNamiBurrito\bin\Release\SharpDX.Direct3D9.dll
+E:\Git dev\VIP\ElBundle\ElNamiBurrito\ElNamiBurrito\bin\Release\SharpDX.dll
+E:\Git dev\VIP\ElBundle\ElNamiBurrito\ElNamiBurrito\bin\Release\Newtonsoft.Json.dll
+E:\Git dev\VIP\ElBundle\ElNamiBurrito\ElNamiBurrito\bin\Release\LeagueSharp.Data.dll
+E:\Git dev\VIP\ElBundle\ElNamiBurrito\ElNamiBurrito\bin\Release\EloBuddy.Sandbox.dll
+E:\Git dev\VIP\ElBundle\ElNamiBurrito\ElNamiBurrito\obj\Release\ElNamiBurrito.csprojResolveAssemblyReference.cache
+E:\Git dev\VIP\ElBundle\ElNamiBurrito\ElNamiBurrito\obj\Release\ElNamiBurrito.exe
+E:\Git dev\VIP\ElBundle\ElNamiBurrito\ElNamiBurrito\obj\Release\ElNamiBurrito.pdb

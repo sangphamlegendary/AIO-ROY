@@ -1,0 +1,16 @@
+E:\Git dev\VIP\UnderratedAIO\UnderratedAIO\bin\Release\UnderratedAIO.exe.config
+E:\Git dev\VIP\UnderratedAIO\UnderratedAIO\obj\Debug\UnderratedAIO.Properties.Resources.resources
+E:\Git dev\VIP\UnderratedAIO\UnderratedAIO\obj\Debug\UnderratedAIO.csproj.GenerateResource.Cache
+E:\Git dev\VIP\UnderratedAIO\UnderratedAIO\bin\Release\UnderratedAIO.exe
+E:\Git dev\VIP\UnderratedAIO\UnderratedAIO\bin\Release\UnderratedAIO.pdb
+E:\Git dev\VIP\UnderratedAIO\UnderratedAIO\bin\Release\EloBuddy.dll
+E:\Git dev\VIP\UnderratedAIO\UnderratedAIO\bin\Release\EloBuddy.SDK.dll
+E:\Git dev\VIP\UnderratedAIO\UnderratedAIO\bin\Release\LeagueSharp.Common.dll
+E:\Git dev\VIP\UnderratedAIO\UnderratedAIO\bin\Release\SharpDX.Direct3D9.dll
+E:\Git dev\VIP\UnderratedAIO\UnderratedAIO\bin\Release\SharpDX.dll
+E:\Git dev\VIP\UnderratedAIO\UnderratedAIO\bin\Release\Spacebar Prediction.dll
+E:\Git dev\VIP\UnderratedAIO\UnderratedAIO\bin\Release\Newtonsoft.Json.dll
+E:\Git dev\VIP\UnderratedAIO\UnderratedAIO\bin\Release\LeagueSharp.Data.dll
+E:\Git dev\VIP\UnderratedAIO\UnderratedAIO\bin\Release\EloBuddy.Sandbox.dll
+E:\Git dev\VIP\UnderratedAIO\UnderratedAIO\obj\Debug\UnderratedAIO.exe
+E:\Git dev\VIP\UnderratedAIO\UnderratedAIO\obj\Debug\UnderratedAIO.pdb

@@ -1,0 +1,14 @@
+E:\Git dev\VIP\Esk0r\Twisted Fate\bin\Debug\TwistedFate.exe.config
+E:\Git dev\VIP\Esk0r\Twisted Fate\bin\Debug\TwistedFate.exe
+E:\Git dev\VIP\Esk0r\Twisted Fate\bin\Debug\TwistedFate.pdb
+E:\Git dev\VIP\Esk0r\Twisted Fate\bin\Debug\EloBuddy.dll
+E:\Git dev\VIP\Esk0r\Twisted Fate\bin\Debug\EloBuddy.SDK.dll
+E:\Git dev\VIP\Esk0r\Twisted Fate\bin\Debug\LeagueSharp.Common.dll
+E:\Git dev\VIP\Esk0r\Twisted Fate\bin\Debug\SharpDX.dll
+E:\Git dev\VIP\Esk0r\Twisted Fate\bin\Debug\SharpDX.Direct3D9.dll
+E:\Git dev\VIP\Esk0r\Twisted Fate\bin\Debug\Newtonsoft.Json.dll
+E:\Git dev\VIP\Esk0r\Twisted Fate\bin\Debug\EloBuddy.Sandbox.dll
+E:\Git dev\VIP\Esk0r\Twisted Fate\bin\Debug\LeagueSharp.Data.dll
+E:\Git dev\VIP\Esk0r\Twisted Fate\obj\Debug\TwistedFate.csproj.TwistedFate.exe.config
+E:\Git dev\VIP\Esk0r\Twisted Fate\obj\Debug\TwistedFate.exe
+E:\Git dev\VIP\Esk0r\Twisted Fate\obj\Debug\TwistedFate.pdb

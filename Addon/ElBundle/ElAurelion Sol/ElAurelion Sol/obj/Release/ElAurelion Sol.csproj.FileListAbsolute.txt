@@ -1,0 +1,14 @@
+E:\Git dev\VIP\ElBundle\ElAurelion Sol\ElAurelion Sol\bin\Release\ElAurelion Sol.exe.config
+E:\Git dev\VIP\ElBundle\ElAurelion Sol\ElAurelion Sol\bin\Release\ElAurelion Sol.exe
+E:\Git dev\VIP\ElBundle\ElAurelion Sol\ElAurelion Sol\bin\Release\ElAurelion Sol.pdb
+E:\Git dev\VIP\ElBundle\ElAurelion Sol\ElAurelion Sol\bin\Release\EloBuddy.dll
+E:\Git dev\VIP\ElBundle\ElAurelion Sol\ElAurelion Sol\bin\Release\EloBuddy.SDK.dll
+E:\Git dev\VIP\ElBundle\ElAurelion Sol\ElAurelion Sol\bin\Release\LeagueSharp.Common.dll
+E:\Git dev\VIP\ElBundle\ElAurelion Sol\ElAurelion Sol\bin\Release\SharpDX.Direct3D9.dll
+E:\Git dev\VIP\ElBundle\ElAurelion Sol\ElAurelion Sol\bin\Release\SharpDX.dll
+E:\Git dev\VIP\ElBundle\ElAurelion Sol\ElAurelion Sol\bin\Release\Newtonsoft.Json.dll
+E:\Git dev\VIP\ElBundle\ElAurelion Sol\ElAurelion Sol\bin\Release\LeagueSharp.Data.dll
+E:\Git dev\VIP\ElBundle\ElAurelion Sol\ElAurelion Sol\bin\Release\EloBuddy.Sandbox.dll
+E:\Git dev\VIP\ElBundle\ElAurelion Sol\ElAurelion Sol\obj\Release\ElAurelion Sol.csprojResolveAssemblyReference.cache
+E:\Git dev\VIP\ElBundle\ElAurelion Sol\ElAurelion Sol\obj\Release\ElAurelion Sol.exe
+E:\Git dev\VIP\ElBundle\ElAurelion Sol\ElAurelion Sol\obj\Release\ElAurelion Sol.pdb

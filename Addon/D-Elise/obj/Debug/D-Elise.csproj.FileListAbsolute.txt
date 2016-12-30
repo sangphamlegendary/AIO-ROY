@@ -1,0 +1,14 @@
+E:\Git dev\VIP\D-Elise\bin\Release\D-Elise.exe.config
+E:\Git dev\VIP\D-Elise\bin\Release\D-Elise.exe
+E:\Git dev\VIP\D-Elise\bin\Release\D-Elise.pdb
+E:\Git dev\VIP\D-Elise\bin\Release\EloBuddy.dll
+E:\Git dev\VIP\D-Elise\bin\Release\EloBuddy.SDK.dll
+E:\Git dev\VIP\D-Elise\bin\Release\LeagueSharp.Common.dll
+E:\Git dev\VIP\D-Elise\bin\Release\SharpDX.Direct3D9.dll
+E:\Git dev\VIP\D-Elise\bin\Release\SharpDX.dll
+E:\Git dev\VIP\D-Elise\bin\Release\Newtonsoft.Json.dll
+E:\Git dev\VIP\D-Elise\bin\Release\LeagueSharp.Data.dll
+E:\Git dev\VIP\D-Elise\bin\Release\EloBuddy.Sandbox.dll
+E:\Git dev\VIP\D-Elise\obj\Debug\D-Elise.csprojResolveAssemblyReference.cache
+E:\Git dev\VIP\D-Elise\obj\Debug\D-Elise.exe
+E:\Git dev\VIP\D-Elise\obj\Debug\D-Elise.pdb

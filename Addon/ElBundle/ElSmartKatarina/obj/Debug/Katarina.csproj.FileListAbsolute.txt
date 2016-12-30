@@ -1,0 +1,13 @@
+E:\Git dev\VIP\ElBundle\ElSmartKatarina\bin\Release\ElKatarina.exe.config
+E:\Git dev\VIP\ElBundle\ElSmartKatarina\bin\Release\ElKatarina.exe
+E:\Git dev\VIP\ElBundle\ElSmartKatarina\bin\Release\ElKatarina.pdb
+E:\Git dev\VIP\ElBundle\ElSmartKatarina\bin\Release\EloBuddy.dll
+E:\Git dev\VIP\ElBundle\ElSmartKatarina\bin\Release\EloBuddy.SDK.dll
+E:\Git dev\VIP\ElBundle\ElSmartKatarina\bin\Release\LeagueSharp.Common.dll
+E:\Git dev\VIP\ElBundle\ElSmartKatarina\bin\Release\SharpDX.Direct3D9.dll
+E:\Git dev\VIP\ElBundle\ElSmartKatarina\bin\Release\SharpDX.dll
+E:\Git dev\VIP\ElBundle\ElSmartKatarina\bin\Release\Newtonsoft.Json.dll
+E:\Git dev\VIP\ElBundle\ElSmartKatarina\bin\Release\LeagueSharp.Data.dll
+E:\Git dev\VIP\ElBundle\ElSmartKatarina\bin\Release\EloBuddy.Sandbox.dll
+E:\Git dev\VIP\ElBundle\ElSmartKatarina\obj\Debug\ElKatarina.exe
+E:\Git dev\VIP\ElBundle\ElSmartKatarina\obj\Debug\ElKatarina.pdb

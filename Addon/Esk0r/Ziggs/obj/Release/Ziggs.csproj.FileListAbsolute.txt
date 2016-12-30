@@ -1,0 +1,14 @@
+E:\Git dev\VIP\Esk0r\Ziggs\bin\Release\Ziggs.exe.config
+E:\Git dev\VIP\Esk0r\Ziggs\bin\Release\Ziggs.exe
+E:\Git dev\VIP\Esk0r\Ziggs\bin\Release\Ziggs.pdb
+E:\Git dev\VIP\Esk0r\Ziggs\bin\Release\EloBuddy.dll
+E:\Git dev\VIP\Esk0r\Ziggs\bin\Release\EloBuddy.SDK.dll
+E:\Git dev\VIP\Esk0r\Ziggs\bin\Release\LeagueSharp.Common.dll
+E:\Git dev\VIP\Esk0r\Ziggs\bin\Release\SharpDX.Direct3D9.dll
+E:\Git dev\VIP\Esk0r\Ziggs\bin\Release\SharpDX.dll
+E:\Git dev\VIP\Esk0r\Ziggs\bin\Release\Newtonsoft.Json.dll
+E:\Git dev\VIP\Esk0r\Ziggs\bin\Release\LeagueSharp.Data.dll
+E:\Git dev\VIP\Esk0r\Ziggs\bin\Release\EloBuddy.Sandbox.dll
+E:\Git dev\VIP\Esk0r\Ziggs\obj\Release\Ziggs.csprojResolveAssemblyReference.cache
+E:\Git dev\VIP\Esk0r\Ziggs\obj\Release\Ziggs.exe
+E:\Git dev\VIP\Esk0r\Ziggs\obj\Release\Ziggs.pdb

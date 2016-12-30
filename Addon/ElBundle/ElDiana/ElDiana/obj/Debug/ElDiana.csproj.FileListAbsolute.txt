@@ -1,0 +1,13 @@
+E:\Git dev\VIP\ElBundle\ElDiana\ElDiana\bin\Release\ElDiana.exe.config
+E:\Git dev\VIP\ElBundle\ElDiana\ElDiana\bin\Release\ElDiana.exe
+E:\Git dev\VIP\ElBundle\ElDiana\ElDiana\bin\Release\ElDiana.pdb
+E:\Git dev\VIP\ElBundle\ElDiana\ElDiana\bin\Release\EloBuddy.dll
+E:\Git dev\VIP\ElBundle\ElDiana\ElDiana\bin\Release\EloBuddy.SDK.dll
+E:\Git dev\VIP\ElBundle\ElDiana\ElDiana\bin\Release\LeagueSharp.Common.dll
+E:\Git dev\VIP\ElBundle\ElDiana\ElDiana\bin\Release\SharpDX.Direct3D9.dll
+E:\Git dev\VIP\ElBundle\ElDiana\ElDiana\bin\Release\SharpDX.dll
+E:\Git dev\VIP\ElBundle\ElDiana\ElDiana\bin\Release\Newtonsoft.Json.dll
+E:\Git dev\VIP\ElBundle\ElDiana\ElDiana\bin\Release\LeagueSharp.Data.dll
+E:\Git dev\VIP\ElBundle\ElDiana\ElDiana\bin\Release\EloBuddy.Sandbox.dll
+E:\Git dev\VIP\ElBundle\ElDiana\ElDiana\obj\Debug\ElDiana.exe
+E:\Git dev\VIP\ElBundle\ElDiana\ElDiana\obj\Debug\ElDiana.pdb

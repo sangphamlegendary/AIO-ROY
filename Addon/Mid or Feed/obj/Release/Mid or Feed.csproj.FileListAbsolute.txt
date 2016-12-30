@@ -1,0 +1,14 @@
+E:\Git dev\VIP\Mid or Feed\bin\Release\Mid or Feed.exe.config
+E:\Git dev\VIP\Mid or Feed\bin\Release\Mid or Feed.exe
+E:\Git dev\VIP\Mid or Feed\bin\Release\Mid or Feed.pdb
+E:\Git dev\VIP\Mid or Feed\bin\Release\EloBuddy.dll
+E:\Git dev\VIP\Mid or Feed\bin\Release\EloBuddy.SDK.dll
+E:\Git dev\VIP\Mid or Feed\bin\Release\LeagueSharp.Common.dll
+E:\Git dev\VIP\Mid or Feed\bin\Release\SharpDX.Direct3D9.dll
+E:\Git dev\VIP\Mid or Feed\bin\Release\SharpDX.dll
+E:\Git dev\VIP\Mid or Feed\bin\Release\Newtonsoft.Json.dll
+E:\Git dev\VIP\Mid or Feed\bin\Release\LeagueSharp.Data.dll
+E:\Git dev\VIP\Mid or Feed\bin\Release\EloBuddy.Sandbox.dll
+E:\Git dev\VIP\Mid or Feed\obj\Release\Mid or Feed.csprojResolveAssemblyReference.cache
+E:\Git dev\VIP\Mid or Feed\obj\Release\Mid or Feed.exe
+E:\Git dev\VIP\Mid or Feed\obj\Release\Mid or Feed.pdb

@@ -1,0 +1,16 @@
+E:\Git dev\VIP\UniversalUtility\UniversalMinimapHack\bin\Release\UniversalMinimapHack.exe.config
+E:\Git dev\VIP\UniversalUtility\UniversalMinimapHack\bin\Release\UniversalMinimapHack.exe
+E:\Git dev\VIP\UniversalUtility\UniversalMinimapHack\bin\Release\UniversalMinimapHack.pdb
+E:\Git dev\VIP\UniversalUtility\UniversalMinimapHack\bin\Release\EloBuddy.dll
+E:\Git dev\VIP\UniversalUtility\UniversalMinimapHack\bin\Release\EloBuddy.SDK.dll
+E:\Git dev\VIP\UniversalUtility\UniversalMinimapHack\bin\Release\LeagueSharp.Common.dll
+E:\Git dev\VIP\UniversalUtility\UniversalMinimapHack\bin\Release\SharpDX.Direct3D9.dll
+E:\Git dev\VIP\UniversalUtility\UniversalMinimapHack\bin\Release\SharpDX.dll
+E:\Git dev\VIP\UniversalUtility\UniversalMinimapHack\bin\Release\Newtonsoft.Json.dll
+E:\Git dev\VIP\UniversalUtility\UniversalMinimapHack\bin\Release\LeagueSharp.Data.dll
+E:\Git dev\VIP\UniversalUtility\UniversalMinimapHack\bin\Release\EloBuddy.Sandbox.dll
+E:\Git dev\VIP\UniversalUtility\UniversalMinimapHack\obj\Debug\UniversalMinimapHack.Properties.Resources.resources
+E:\Git dev\VIP\UniversalUtility\UniversalMinimapHack\obj\Debug\UniversalMinimapHack.csproj.GenerateResource.Cache
+E:\Git dev\VIP\UniversalUtility\UniversalMinimapHack\obj\Debug\UniversalMinimapHack.exe
+E:\Git dev\VIP\UniversalUtility\UniversalMinimapHack\obj\Debug\UniversalMinimapHack.pdb
+E:\Git dev\VIP\UniversalUtility\UniversalMinimapHack\obj\Debug\UniversalMinimapHack.csprojResolveAssemblyReference.cache

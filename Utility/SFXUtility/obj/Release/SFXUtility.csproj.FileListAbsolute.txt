@@ -1,0 +1,16 @@
+E:\Git dev\VIP\NEW TEMP\SFXUtility\bin\Release\SFXUtility.exe.config
+E:\Git dev\VIP\NEW TEMP\SFXUtility\bin\Release\SFXUtility.exe
+E:\Git dev\VIP\NEW TEMP\SFXUtility\bin\Release\SFXUtility.pdb
+E:\Git dev\VIP\NEW TEMP\SFXUtility\bin\Release\EloBuddy.dll
+E:\Git dev\VIP\NEW TEMP\SFXUtility\bin\Release\EloBuddy.SDK.dll
+E:\Git dev\VIP\NEW TEMP\SFXUtility\bin\Release\LeagueSharp.Common.dll
+E:\Git dev\VIP\NEW TEMP\SFXUtility\bin\Release\SharpDX.Direct3D9.dll
+E:\Git dev\VIP\NEW TEMP\SFXUtility\bin\Release\SharpDX.dll
+E:\Git dev\VIP\NEW TEMP\SFXUtility\bin\Release\Newtonsoft.Json.dll
+E:\Git dev\VIP\NEW TEMP\SFXUtility\bin\Release\LeagueSharp.Data.dll
+E:\Git dev\VIP\NEW TEMP\SFXUtility\bin\Release\EloBuddy.Sandbox.dll
+E:\Git dev\VIP\NEW TEMP\SFXUtility\obj\Release\SFXUtility.csprojResolveAssemblyReference.cache
+E:\Git dev\VIP\NEW TEMP\SFXUtility\obj\Release\SFXUtility.Properties.Resources.resources
+E:\Git dev\VIP\NEW TEMP\SFXUtility\obj\Release\SFXUtility.csproj.GenerateResource.Cache
+E:\Git dev\VIP\NEW TEMP\SFXUtility\obj\Release\SFXUtility.exe
+E:\Git dev\VIP\NEW TEMP\SFXUtility\obj\Release\SFXUtility.pdb

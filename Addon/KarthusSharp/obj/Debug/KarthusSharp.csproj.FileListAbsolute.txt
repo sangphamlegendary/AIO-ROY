@@ -1,0 +1,14 @@
+E:\Git dev\VIP\KarthusSharp\bin\Release\KarthusSharp.exe.config
+E:\Git dev\VIP\KarthusSharp\bin\Release\KarthusSharp.exe
+E:\Git dev\VIP\KarthusSharp\bin\Release\KarthusSharp.pdb
+E:\Git dev\VIP\KarthusSharp\bin\Release\EloBuddy.dll
+E:\Git dev\VIP\KarthusSharp\bin\Release\EloBuddy.SDK.dll
+E:\Git dev\VIP\KarthusSharp\bin\Release\LeagueSharp.Common.dll
+E:\Git dev\VIP\KarthusSharp\bin\Release\SharpDX.Direct3D9.dll
+E:\Git dev\VIP\KarthusSharp\bin\Release\SharpDX.dll
+E:\Git dev\VIP\KarthusSharp\bin\Release\Newtonsoft.Json.dll
+E:\Git dev\VIP\KarthusSharp\bin\Release\LeagueSharp.Data.dll
+E:\Git dev\VIP\KarthusSharp\bin\Release\EloBuddy.Sandbox.dll
+E:\Git dev\VIP\KarthusSharp\obj\Debug\KarthusSharp.csprojResolveAssemblyReference.cache
+E:\Git dev\VIP\KarthusSharp\obj\Debug\KarthusSharp.exe
+E:\Git dev\VIP\KarthusSharp\obj\Debug\KarthusSharp.pdb

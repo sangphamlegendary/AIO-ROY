@@ -1,0 +1,14 @@
+E:\Git dev\VIP\ElBundle\Elvarus\Elvarus\bin\Release\Elvarus.exe.config
+E:\Git dev\VIP\ElBundle\Elvarus\Elvarus\bin\Release\Elvarus.exe
+E:\Git dev\VIP\ElBundle\Elvarus\Elvarus\bin\Release\Elvarus.pdb
+E:\Git dev\VIP\ElBundle\Elvarus\Elvarus\bin\Release\EloBuddy.dll
+E:\Git dev\VIP\ElBundle\Elvarus\Elvarus\bin\Release\EloBuddy.SDK.dll
+E:\Git dev\VIP\ElBundle\Elvarus\Elvarus\bin\Release\LeagueSharp.Common.dll
+E:\Git dev\VIP\ElBundle\Elvarus\Elvarus\bin\Release\SharpDX.Direct3D9.dll
+E:\Git dev\VIP\ElBundle\Elvarus\Elvarus\bin\Release\SharpDX.dll
+E:\Git dev\VIP\ElBundle\Elvarus\Elvarus\bin\Release\Newtonsoft.Json.dll
+E:\Git dev\VIP\ElBundle\Elvarus\Elvarus\bin\Release\LeagueSharp.Data.dll
+E:\Git dev\VIP\ElBundle\Elvarus\Elvarus\bin\Release\EloBuddy.Sandbox.dll
+E:\Git dev\VIP\ElBundle\Elvarus\Elvarus\obj\Debug\Elvarus.csprojResolveAssemblyReference.cache
+E:\Git dev\VIP\ElBundle\Elvarus\Elvarus\obj\Debug\Elvarus.exe
+E:\Git dev\VIP\ElBundle\Elvarus\Elvarus\obj\Debug\Elvarus.pdb

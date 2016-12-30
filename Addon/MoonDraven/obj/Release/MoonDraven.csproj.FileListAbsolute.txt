@@ -1,0 +1,14 @@
+E:\Git dev\VIP\MoonDraven\bin\Release\MoonDraven.exe.config
+E:\Git dev\VIP\MoonDraven\bin\Release\MoonDraven.exe
+E:\Git dev\VIP\MoonDraven\bin\Release\MoonDraven.pdb
+E:\Git dev\VIP\MoonDraven\bin\Release\EloBuddy.dll
+E:\Git dev\VIP\MoonDraven\bin\Release\EloBuddy.SDK.dll
+E:\Git dev\VIP\MoonDraven\bin\Release\LeagueSharp.Common.dll
+E:\Git dev\VIP\MoonDraven\bin\Release\SharpDX.Direct3D9.dll
+E:\Git dev\VIP\MoonDraven\bin\Release\SharpDX.dll
+E:\Git dev\VIP\MoonDraven\bin\Release\Newtonsoft.Json.dll
+E:\Git dev\VIP\MoonDraven\bin\Release\LeagueSharp.Data.dll
+E:\Git dev\VIP\MoonDraven\bin\Release\EloBuddy.Sandbox.dll
+E:\Git dev\VIP\MoonDraven\obj\Release\MoonDraven.csprojResolveAssemblyReference.cache
+E:\Git dev\VIP\MoonDraven\obj\Release\MoonDraven.exe
+E:\Git dev\VIP\MoonDraven\obj\Release\MoonDraven.pdb

@@ -1,0 +1,14 @@
+E:\Git dev\VIP\AhriSharp\bin\Release\AhriSharp.exe.config
+E:\Git dev\VIP\AhriSharp\bin\Release\AhriSharp.exe
+E:\Git dev\VIP\AhriSharp\bin\Release\AhriSharp.pdb
+E:\Git dev\VIP\AhriSharp\bin\Release\EloBuddy.dll
+E:\Git dev\VIP\AhriSharp\bin\Release\EloBuddy.SDK.dll
+E:\Git dev\VIP\AhriSharp\bin\Release\LeagueSharp.Common.dll
+E:\Git dev\VIP\AhriSharp\bin\Release\SharpDX.Direct3D9.dll
+E:\Git dev\VIP\AhriSharp\bin\Release\SharpDX.dll
+E:\Git dev\VIP\AhriSharp\bin\Release\Newtonsoft.Json.dll
+E:\Git dev\VIP\AhriSharp\bin\Release\LeagueSharp.Data.dll
+E:\Git dev\VIP\AhriSharp\bin\Release\EloBuddy.Sandbox.dll
+E:\Git dev\VIP\AhriSharp\obj\Debug\AhriSharp.csprojResolveAssemblyReference.cache
+E:\Git dev\VIP\AhriSharp\obj\Debug\AhriSharp.exe
+E:\Git dev\VIP\AhriSharp\obj\Debug\AhriSharp.pdb

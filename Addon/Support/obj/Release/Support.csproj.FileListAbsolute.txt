@@ -1,0 +1,14 @@
+E:\Git dev\VIP\Support\bin\Release\Support.exe.config
+E:\Git dev\VIP\Support\bin\Release\Support.exe
+E:\Git dev\VIP\Support\bin\Release\Support.pdb
+E:\Git dev\VIP\Support\bin\Release\EloBuddy.dll
+E:\Git dev\VIP\Support\bin\Release\EloBuddy.SDK.dll
+E:\Git dev\VIP\Support\bin\Release\LeagueSharp.Common.dll
+E:\Git dev\VIP\Support\bin\Release\SharpDX.Direct3D9.dll
+E:\Git dev\VIP\Support\bin\Release\SharpDX.dll
+E:\Git dev\VIP\Support\bin\Release\Newtonsoft.Json.dll
+E:\Git dev\VIP\Support\bin\Release\LeagueSharp.Data.dll
+E:\Git dev\VIP\Support\bin\Release\EloBuddy.Sandbox.dll
+E:\Git dev\VIP\Support\obj\Release\Support.csprojResolveAssemblyReference.cache
+E:\Git dev\VIP\Support\obj\Release\Support.exe
+E:\Git dev\VIP\Support\obj\Release\Support.pdb

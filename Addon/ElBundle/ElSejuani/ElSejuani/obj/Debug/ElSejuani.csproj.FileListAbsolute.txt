@@ -1,0 +1,13 @@
+E:\Git dev\VIP\ElBundle\ElSejuani\ElSejuani\bin\Release\ElSejuani.exe.config
+E:\Git dev\VIP\ElBundle\ElSejuani\ElSejuani\bin\Release\ElSejuani.exe
+E:\Git dev\VIP\ElBundle\ElSejuani\ElSejuani\bin\Release\ElSejuani.pdb
+E:\Git dev\VIP\ElBundle\ElSejuani\ElSejuani\bin\Release\EloBuddy.dll
+E:\Git dev\VIP\ElBundle\ElSejuani\ElSejuani\bin\Release\LeagueSharp.Common.dll
+E:\Git dev\VIP\ElBundle\ElSejuani\ElSejuani\bin\Release\SharpDX.Direct3D9.dll
+E:\Git dev\VIP\ElBundle\ElSejuani\ElSejuani\bin\Release\SharpDX.dll
+E:\Git dev\VIP\ElBundle\ElSejuani\ElSejuani\bin\Release\LeagueSharp.Data.dll
+E:\Git dev\VIP\ElBundle\ElSejuani\ElSejuani\bin\Release\EloBuddy.SDK.dll
+E:\Git dev\VIP\ElBundle\ElSejuani\ElSejuani\bin\Release\EloBuddy.Sandbox.dll
+E:\Git dev\VIP\ElBundle\ElSejuani\ElSejuani\bin\Release\Newtonsoft.Json.dll
+E:\Git dev\VIP\ElBundle\ElSejuani\ElSejuani\obj\Debug\ElSejuani.exe
+E:\Git dev\VIP\ElBundle\ElSejuani\ElSejuani\obj\Debug\ElSejuani.pdb

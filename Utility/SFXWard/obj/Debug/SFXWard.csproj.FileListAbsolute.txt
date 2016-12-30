@@ -1,0 +1,16 @@
+E:\Git dev\VIP\SFXWard\obj\Debug\SFXWard.Properties.Resources.resources
+E:\Git dev\VIP\SFXWard\obj\Debug\SFXWard.csproj.GenerateResource.Cache
+E:\Git dev\VIP\SFXWard\bin\Release\SFXWard.exe.config
+E:\Git dev\VIP\SFXWard\bin\Release\SFXWard.exe
+E:\Git dev\VIP\SFXWard\bin\Release\SFXWard.pdb
+E:\Git dev\VIP\SFXWard\bin\Release\EloBuddy.dll
+E:\Git dev\VIP\SFXWard\bin\Release\EloBuddy.SDK.dll
+E:\Git dev\VIP\SFXWard\bin\Release\LeagueSharp.Common.dll
+E:\Git dev\VIP\SFXWard\bin\Release\SharpDX.Direct3D9.dll
+E:\Git dev\VIP\SFXWard\bin\Release\SharpDX.dll
+E:\Git dev\VIP\SFXWard\bin\Release\Newtonsoft.Json.dll
+E:\Git dev\VIP\SFXWard\bin\Release\LeagueSharp.Data.dll
+E:\Git dev\VIP\SFXWard\bin\Release\EloBuddy.Sandbox.dll
+E:\Git dev\VIP\SFXWard\obj\Debug\SFXWard.exe
+E:\Git dev\VIP\SFXWard\obj\Debug\SFXWard.pdb
+E:\Git dev\VIP\SFXWard\obj\Debug\SFXWard.csprojResolveAssemblyReference.cache

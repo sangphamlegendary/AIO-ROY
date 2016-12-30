@@ -1,0 +1,30 @@
+C:\Users\Nino\Documents\GitHub\LeagueSharp\TheCassiopeia\TheCassiopeia\bin\x86\Debug\TheCassiopeia.exe.config
+C:\Users\Nino\Documents\GitHub\LeagueSharp\TheCassiopeia\TheCassiopeia\bin\x86\Debug\TheCassiopeia.exe
+C:\Users\Nino\Documents\GitHub\LeagueSharp\TheCassiopeia\TheCassiopeia\bin\x86\Debug\TheCassiopeia.pdb
+C:\Users\Nino\Documents\GitHub\LeagueSharp\TheCassiopeia\TheCassiopeia\bin\x86\Debug\LeagueSharp.Common.dll
+C:\Users\Nino\Documents\GitHub\LeagueSharp\TheCassiopeia\TheCassiopeia\bin\x86\Debug\LeagueSharp.dll
+C:\Users\Nino\Documents\GitHub\LeagueSharp\TheCassiopeia\TheCassiopeia\bin\x86\Debug\SharpDX.dll
+C:\Users\Nino\Documents\GitHub\LeagueSharp\TheCassiopeia\TheCassiopeia\bin\x86\Debug\SharpDX.Direct3D9.dll
+C:\Users\Nino\Documents\GitHub\LeagueSharp\TheCassiopeia\TheCassiopeia\bin\x86\Debug\LeagueSharp.Data.dll
+C:\Users\Nino\Documents\GitHub\LeagueSharp\TheCassiopeia\TheCassiopeia\bin\x86\Debug\clipper_library.dll
+C:\Users\Nino\Documents\GitHub\LeagueSharp\TheCassiopeia\TheCassiopeia\bin\x86\Debug\LeagueSharp.Sandbox.dll
+C:\Users\Nino\Documents\GitHub\LeagueSharp\TheCassiopeia\TheCassiopeia\bin\x86\Debug\Newtonsoft.Json.dll
+C:\Users\Nino\Documents\GitHub\LeagueSharp\TheCassiopeia\TheCassiopeia\bin\x86\Debug\LeagueSharp.xml
+C:\Users\Nino\Documents\GitHub\LeagueSharp\TheCassiopeia\TheCassiopeia\bin\x86\Debug\LeagueSharp.Common.pdb
+C:\Users\Nino\Documents\GitHub\LeagueSharp\TheCassiopeia\TheCassiopeia\bin\x86\Debug\LeagueSharp.Data.pdb
+C:\Users\Nino\Documents\GitHub\LeagueSharp\TheCassiopeia\TheCassiopeia\obj\x86\Debug\TheCassiopeia.csprojResolveAssemblyReference.cache
+C:\Users\Nino\Documents\GitHub\LeagueSharp\TheCassiopeia\TheCassiopeia\obj\x86\Debug\TheCassiopeia.exe
+C:\Users\Nino\Documents\GitHub\LeagueSharp\TheCassiopeia\TheCassiopeia\obj\x86\Debug\TheCassiopeia.pdb
+E:\Git dev\VIP\TheCassiopeia\TheCassiopeia\bin\x86\Debug\TheCassiopeia.exe.config
+E:\Git dev\VIP\TheCassiopeia\TheCassiopeia\bin\x86\Debug\TheCassiopeia.exe
+E:\Git dev\VIP\TheCassiopeia\TheCassiopeia\bin\x86\Debug\TheCassiopeia.pdb
+E:\Git dev\VIP\TheCassiopeia\TheCassiopeia\bin\x86\Debug\EloBuddy.dll
+E:\Git dev\VIP\TheCassiopeia\TheCassiopeia\bin\x86\Debug\EloBuddy.SDK.dll
+E:\Git dev\VIP\TheCassiopeia\TheCassiopeia\bin\x86\Debug\LeagueSharp.Common.dll
+E:\Git dev\VIP\TheCassiopeia\TheCassiopeia\bin\x86\Debug\SharpDX.Direct3D9.dll
+E:\Git dev\VIP\TheCassiopeia\TheCassiopeia\bin\x86\Debug\SharpDX.dll
+E:\Git dev\VIP\TheCassiopeia\TheCassiopeia\bin\x86\Debug\Newtonsoft.Json.dll
+E:\Git dev\VIP\TheCassiopeia\TheCassiopeia\bin\x86\Debug\LeagueSharp.Data.dll
+E:\Git dev\VIP\TheCassiopeia\TheCassiopeia\bin\x86\Debug\EloBuddy.Sandbox.dll
+E:\Git dev\VIP\TheCassiopeia\TheCassiopeia\obj\x86\Debug\TheCassiopeia.exe
+E:\Git dev\VIP\TheCassiopeia\TheCassiopeia\obj\x86\Debug\TheCassiopeia.pdb

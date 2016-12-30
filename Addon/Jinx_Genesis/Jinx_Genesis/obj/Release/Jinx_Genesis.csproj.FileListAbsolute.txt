@@ -1,0 +1,15 @@
+E:\Git dev\VIP\Jinx_Genesis\Jinx_Genesis\bin\Release\Jinx_Genesis.exe.config
+E:\Git dev\VIP\Jinx_Genesis\Jinx_Genesis\bin\Release\Jinx_Genesis.exe
+E:\Git dev\VIP\Jinx_Genesis\Jinx_Genesis\bin\Release\Jinx_Genesis.pdb
+E:\Git dev\VIP\Jinx_Genesis\Jinx_Genesis\bin\Release\EloBuddy.dll
+E:\Git dev\VIP\Jinx_Genesis\Jinx_Genesis\bin\Release\EloBuddy.SDK.dll
+E:\Git dev\VIP\Jinx_Genesis\Jinx_Genesis\bin\Release\LeagueSharp.Common.dll
+E:\Git dev\VIP\Jinx_Genesis\Jinx_Genesis\bin\Release\SharpDX.dll
+E:\Git dev\VIP\Jinx_Genesis\Jinx_Genesis\bin\Release\SharpDX.Direct3D9.dll
+E:\Git dev\VIP\Jinx_Genesis\Jinx_Genesis\bin\Release\Newtonsoft.Json.dll
+E:\Git dev\VIP\Jinx_Genesis\Jinx_Genesis\bin\Release\LeagueSharp.Data.dll
+E:\Git dev\VIP\Jinx_Genesis\Jinx_Genesis\bin\Release\EloBuddy.Sandbox.dll
+E:\Git dev\VIP\Jinx_Genesis\Jinx_Genesis\obj\Release\Jinx_Genesis.csprojResolveAssemblyReference.cache
+E:\Git dev\VIP\Jinx_Genesis\Jinx_Genesis\obj\Release\Jinx_Genesis.exe
+E:\Git dev\VIP\Jinx_Genesis\Jinx_Genesis\obj\Release\Jinx_Genesis.pdb
+E:\Git dev\VIP\Jinx_Genesis\Jinx_Genesis\bin\Release\SebbyLib.dll

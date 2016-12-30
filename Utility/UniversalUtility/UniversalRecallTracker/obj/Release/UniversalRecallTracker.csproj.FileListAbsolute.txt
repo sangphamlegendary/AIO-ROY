@@ -1,0 +1,16 @@
+E:\Git dev\VIP\UniversalUtility\UniversalRecallTracker\bin\Release\UniversalRecallTracker.exe.config
+E:\Git dev\VIP\UniversalUtility\UniversalRecallTracker\bin\Release\UniversalRecallTracker.exe
+E:\Git dev\VIP\UniversalUtility\UniversalRecallTracker\bin\Release\UniversalRecallTracker.pdb
+E:\Git dev\VIP\UniversalUtility\UniversalRecallTracker\bin\Release\EloBuddy.dll
+E:\Git dev\VIP\UniversalUtility\UniversalRecallTracker\bin\Release\EloBuddy.SDK.dll
+E:\Git dev\VIP\UniversalUtility\UniversalRecallTracker\bin\Release\LeagueSharp.Common.dll
+E:\Git dev\VIP\UniversalUtility\UniversalRecallTracker\bin\Release\SharpDX.Direct3D9.dll
+E:\Git dev\VIP\UniversalUtility\UniversalRecallTracker\bin\Release\SharpDX.dll
+E:\Git dev\VIP\UniversalUtility\UniversalRecallTracker\bin\Release\Newtonsoft.Json.dll
+E:\Git dev\VIP\UniversalUtility\UniversalRecallTracker\bin\Release\LeagueSharp.Data.dll
+E:\Git dev\VIP\UniversalUtility\UniversalRecallTracker\bin\Release\EloBuddy.Sandbox.dll
+E:\Git dev\VIP\UniversalUtility\UniversalRecallTracker\obj\Release\UniversalRecallTracker.csprojResolveAssemblyReference.cache
+E:\Git dev\VIP\UniversalUtility\UniversalRecallTracker\obj\Release\UniversalRecallTracker.Properties.Resources.resources
+E:\Git dev\VIP\UniversalUtility\UniversalRecallTracker\obj\Release\UniversalRecallTracker.csproj.GenerateResource.Cache
+E:\Git dev\VIP\UniversalUtility\UniversalRecallTracker\obj\Release\UniversalRecallTracker.exe
+E:\Git dev\VIP\UniversalUtility\UniversalRecallTracker\obj\Release\UniversalRecallTracker.pdb

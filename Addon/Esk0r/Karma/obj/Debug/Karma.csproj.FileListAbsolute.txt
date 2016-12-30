@@ -1,0 +1,13 @@
+E:\Git dev\VIP\Esk0r\Karma\bin\Debug\Karma.exe.config
+E:\Git dev\VIP\Esk0r\Karma\bin\Debug\Karma.exe
+E:\Git dev\VIP\Esk0r\Karma\bin\Debug\Karma.pdb
+E:\Git dev\VIP\Esk0r\Karma\bin\Debug\EloBuddy.dll
+E:\Git dev\VIP\Esk0r\Karma\bin\Debug\EloBuddy.SDK.dll
+E:\Git dev\VIP\Esk0r\Karma\bin\Debug\LeagueSharp.Common.dll
+E:\Git dev\VIP\Esk0r\Karma\bin\Debug\SharpDX.Direct3D9.dll
+E:\Git dev\VIP\Esk0r\Karma\bin\Debug\SharpDX.dll
+E:\Git dev\VIP\Esk0r\Karma\bin\Debug\Newtonsoft.Json.dll
+E:\Git dev\VIP\Esk0r\Karma\bin\Debug\LeagueSharp.Data.dll
+E:\Git dev\VIP\Esk0r\Karma\bin\Debug\EloBuddy.Sandbox.dll
+E:\Git dev\VIP\Esk0r\Karma\obj\Debug\Karma.exe
+E:\Git dev\VIP\Esk0r\Karma\obj\Debug\Karma.pdb

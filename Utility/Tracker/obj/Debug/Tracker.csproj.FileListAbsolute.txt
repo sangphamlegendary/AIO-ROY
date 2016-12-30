@@ -1,0 +1,16 @@
+E:\Git dev\VIP\Tracker\bin\Release\Tracker.exe.config
+E:\Git dev\VIP\Tracker\bin\Release\Tracker.exe
+E:\Git dev\VIP\Tracker\bin\Release\Tracker.pdb
+E:\Git dev\VIP\Tracker\bin\Release\EloBuddy.dll
+E:\Git dev\VIP\Tracker\bin\Release\LeagueSharp.Common.dll
+E:\Git dev\VIP\Tracker\bin\Release\SharpDX.Direct3D9.dll
+E:\Git dev\VIP\Tracker\bin\Release\SharpDX.dll
+E:\Git dev\VIP\Tracker\bin\Release\LeagueSharp.Data.dll
+E:\Git dev\VIP\Tracker\bin\Release\EloBuddy.SDK.dll
+E:\Git dev\VIP\Tracker\bin\Release\EloBuddy.Sandbox.dll
+E:\Git dev\VIP\Tracker\bin\Release\Newtonsoft.Json.dll
+E:\Git dev\VIP\Tracker\obj\Debug\Tracker.csprojResolveAssemblyReference.cache
+E:\Git dev\VIP\Tracker\obj\Debug\Tracker.Properties.Resources.resources
+E:\Git dev\VIP\Tracker\obj\Debug\Tracker.csproj.GenerateResource.Cache
+E:\Git dev\VIP\Tracker\obj\Debug\Tracker.exe
+E:\Git dev\VIP\Tracker\obj\Debug\Tracker.pdb

@@ -1,0 +1,16 @@
+E:\Git dev\VIP\Slutty Ryze\Slutty Ryze\bin\Release\Slutty ryze.exe.config
+E:\Git dev\VIP\Slutty Ryze\Slutty Ryze\bin\Release\Slutty ryze.exe
+E:\Git dev\VIP\Slutty Ryze\Slutty Ryze\bin\Release\Slutty ryze.pdb
+E:\Git dev\VIP\Slutty Ryze\Slutty Ryze\bin\Release\EloBuddy.dll
+E:\Git dev\VIP\Slutty Ryze\Slutty Ryze\bin\Release\LeagueSharp.Common.dll
+E:\Git dev\VIP\Slutty Ryze\Slutty Ryze\bin\Release\SharpDX.Direct3D9.dll
+E:\Git dev\VIP\Slutty Ryze\Slutty Ryze\bin\Release\SharpDX.dll
+E:\Git dev\VIP\Slutty Ryze\Slutty Ryze\bin\Release\LeagueSharp.Data.dll
+E:\Git dev\VIP\Slutty Ryze\Slutty Ryze\bin\Release\EloBuddy.SDK.dll
+E:\Git dev\VIP\Slutty Ryze\Slutty Ryze\bin\Release\EloBuddy.Sandbox.dll
+E:\Git dev\VIP\Slutty Ryze\Slutty Ryze\bin\Release\Newtonsoft.Json.dll
+E:\Git dev\VIP\Slutty Ryze\Slutty Ryze\obj\Release\Slutty Ryze.csprojResolveAssemblyReference.cache
+E:\Git dev\VIP\Slutty Ryze\Slutty Ryze\obj\Release\Slutty_ryze.Properties.Resources.resources
+E:\Git dev\VIP\Slutty Ryze\Slutty Ryze\obj\Release\Slutty Ryze.csproj.GenerateResource.Cache
+E:\Git dev\VIP\Slutty Ryze\Slutty Ryze\obj\Release\Slutty ryze.exe
+E:\Git dev\VIP\Slutty Ryze\Slutty Ryze\obj\Release\Slutty ryze.pdb

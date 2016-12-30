@@ -1,0 +1,13 @@
+E:\Git dev\VIP\Fresh_TahmKench\bin\Release\Fresh_TahmKench.exe.config
+E:\Git dev\VIP\Fresh_TahmKench\bin\Release\Fresh_TahmKench.exe
+E:\Git dev\VIP\Fresh_TahmKench\bin\Release\Fresh_TahmKench.pdb
+E:\Git dev\VIP\Fresh_TahmKench\bin\Release\EloBuddy.dll
+E:\Git dev\VIP\Fresh_TahmKench\bin\Release\EloBuddy.SDK.dll
+E:\Git dev\VIP\Fresh_TahmKench\bin\Release\LeagueSharp.Common.dll
+E:\Git dev\VIP\Fresh_TahmKench\bin\Release\SharpDX.Direct3D9.dll
+E:\Git dev\VIP\Fresh_TahmKench\bin\Release\SharpDX.dll
+E:\Git dev\VIP\Fresh_TahmKench\bin\Release\Newtonsoft.Json.dll
+E:\Git dev\VIP\Fresh_TahmKench\bin\Release\LeagueSharp.Data.dll
+E:\Git dev\VIP\Fresh_TahmKench\bin\Release\EloBuddy.Sandbox.dll
+E:\Git dev\VIP\Fresh_TahmKench\obj\Debug\Fresh_TahmKench.exe
+E:\Git dev\VIP\Fresh_TahmKench\obj\Debug\Fresh_TahmKench.pdb

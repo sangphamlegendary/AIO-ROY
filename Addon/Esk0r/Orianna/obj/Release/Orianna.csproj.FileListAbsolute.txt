@@ -1,0 +1,14 @@
+E:\Git dev\VIP\Esk0r\Orianna\bin\Release\Orianna.exe.config
+E:\Git dev\VIP\Esk0r\Orianna\bin\Release\Orianna.exe
+E:\Git dev\VIP\Esk0r\Orianna\bin\Release\Orianna.pdb
+E:\Git dev\VIP\Esk0r\Orianna\bin\Release\EloBuddy.dll
+E:\Git dev\VIP\Esk0r\Orianna\bin\Release\EloBuddy.SDK.dll
+E:\Git dev\VIP\Esk0r\Orianna\bin\Release\LeagueSharp.Common.dll
+E:\Git dev\VIP\Esk0r\Orianna\bin\Release\SharpDX.Direct3D9.dll
+E:\Git dev\VIP\Esk0r\Orianna\bin\Release\SharpDX.dll
+E:\Git dev\VIP\Esk0r\Orianna\bin\Release\Newtonsoft.Json.dll
+E:\Git dev\VIP\Esk0r\Orianna\bin\Release\LeagueSharp.Data.dll
+E:\Git dev\VIP\Esk0r\Orianna\bin\Release\EloBuddy.Sandbox.dll
+E:\Git dev\VIP\Esk0r\Orianna\obj\Release\Orianna.csprojResolveAssemblyReference.cache
+E:\Git dev\VIP\Esk0r\Orianna\obj\Release\Orianna.exe
+E:\Git dev\VIP\Esk0r\Orianna\obj\Release\Orianna.pdb

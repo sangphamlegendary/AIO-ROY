@@ -1,0 +1,14 @@
+E:\Git dev\VIP\Brian Sharp\Brian Sharp\bin\Release\Brian Sharp.exe.config
+E:\Git dev\VIP\Brian Sharp\Brian Sharp\bin\Release\Brian Sharp.exe
+E:\Git dev\VIP\Brian Sharp\Brian Sharp\bin\Release\Brian Sharp.pdb
+E:\Git dev\VIP\Brian Sharp\Brian Sharp\bin\Release\EloBuddy.dll
+E:\Git dev\VIP\Brian Sharp\Brian Sharp\bin\Release\EloBuddy.SDK.dll
+E:\Git dev\VIP\Brian Sharp\Brian Sharp\bin\Release\LeagueSharp.Common.dll
+E:\Git dev\VIP\Brian Sharp\Brian Sharp\bin\Release\SharpDX.Direct3D9.dll
+E:\Git dev\VIP\Brian Sharp\Brian Sharp\bin\Release\SharpDX.dll
+E:\Git dev\VIP\Brian Sharp\Brian Sharp\bin\Release\Newtonsoft.Json.dll
+E:\Git dev\VIP\Brian Sharp\Brian Sharp\bin\Release\LeagueSharp.Data.dll
+E:\Git dev\VIP\Brian Sharp\Brian Sharp\bin\Release\EloBuddy.Sandbox.dll
+E:\Git dev\VIP\Brian Sharp\Brian Sharp\obj\Release\Brian Sharp.exe
+E:\Git dev\VIP\Brian Sharp\Brian Sharp\obj\Release\Brian Sharp.pdb
+E:\Git dev\VIP\Brian Sharp\Brian Sharp\obj\Release\Brian Sharp.csprojResolveAssemblyReference.cache
