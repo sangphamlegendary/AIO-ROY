@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 fuck you
+=======
+fuck con me thang soncuti nat loz :D
+>>>>>>> origin/master
